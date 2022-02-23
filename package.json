@@ -1,0 +1,27 @@
+{
+  "name": "nepali_municipalities",
+  "version": "1.0.1",
+  "description": "All district municipality provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nepal municipality",
+    "nepali municipality",
+    "municipalities nepal",
+    "nepali packages",
+    "pawan package",
+    "npm nepali municipalities",
+    "nepali_municipalities",
+    "nepali municipality",
+    "nepali municipalities",
+    "npm nepali municipality",
+    "nepali municipalities package"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nepali_municipalities": "^1.0.0"
+  }
+}
